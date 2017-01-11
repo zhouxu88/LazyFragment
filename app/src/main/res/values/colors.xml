@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--底部导航的RadioButton被按下时的颜色-->
+    <color name="radio_button_checked">#ff0000</color>
+    <!--底部导航的RadioButton未被选择时的颜色-->
+    <color name="radio_button_normal">#000000</color>
+
+    <!--注册界面步骤分割的颜色-->
+    <color name="divide">#8b8383</color>
+    <color name="layout_background">#d1c9c9</color>
+    <!--找回密码界面步骤的颜色-->
+    <color name="find_background">#f1ecec</color>
+
+    <color name="card_view_bg">#faf6f6</color>
+
+
+
+
+    <color name="curr_dot">#ff5f5f</color>
+    <color name="normal_dot">#fff</color>
+    <color name="green">#00ff00</color>
+    <color name="view_color">#c7c7c7</color>
+    <color name="line_color">#8e8e8e</color>
+</resources>
